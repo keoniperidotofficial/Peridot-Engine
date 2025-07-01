@@ -26,7 +26,7 @@ luckyBtn.addEventListener("click", function () {
   if (result) {
     window.open(result.url, "_blank");
   } else {
-    alert("No sparkly lucky result found 😢");
+    alert("No lucky result found 😢");
   }
 });
 
