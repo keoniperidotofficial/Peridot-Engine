@@ -5,7 +5,7 @@ const luckyBtn = document.getElementById("luckyBtn");
 const randomBtn = document.getElementById("randomBtn");
 
 const fakeDatabase = [
-  { title: "Lacey's Flash Games", url: "https://laceyflashgames.example.com" },
+  { title: "Lacey's Flash Games", url: "https://store.steampowered.com/app/3459340/Laceys_Flash_Games/" },
   { title: "Lily's World XD", url: "https://lilyxd.example.com" },
   { title: "Car's Epik Server", url: "https://carsepikengine.example.com" },
   { title: "Broken Code 🤯", url: "https://keoniperidotofficial.github.io/broken-code/" },
