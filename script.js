@@ -7,7 +7,7 @@ const randomBtn = document.getElementById("randomBtn");
 const fakeDatabase = [
   { title: "Lacey's Flash Games", url: "https://store.steampowered.com/app/3459340/Laceys_Flash_Games/" },
   { title: "Lily's World XD", url: "https://lilyxd.example.com" },
-  { title: "Car's Epik Server", url: "https://carsepikengine.example.com" },
+  { title: "Car's Epik Server", url: "https://discord.gg/RqR4fY72Q8" },
   { title: "Broken Code 🤯", url: "https://keoniperidotofficial.github.io/broken-code/" },
   { title: "Joseph Stinky: The Game", url: "https://example.com/joseph-stinky-epic" },
 { title: "Liola - The burping stinky lice", url: "https://example.com/liola-and-the-hooplas"},
