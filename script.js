@@ -43,7 +43,7 @@ function doSearch(query) {
   resultsDiv.innerHTML = "";
 
   if (results.length === 0) {
-    resultsDiv.innerHTML = "<p>No sparkly results found 😢</p>";
+    resultsDiv.innerHTML = "<p>No results found 😢</p>";
   } else {
     results.forEach(result => {
       const item = document.createElement("div");
