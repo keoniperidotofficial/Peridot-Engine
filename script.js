@@ -11,6 +11,7 @@ const fakeDatabase = [
   { title: "Broken Code 🤯", url: "https://keoniperidotofficial.github.io/broken-code/" },
   { title: "Joseph Stinky: The Game", url: "https://josephiscool.straw.page" },
 { title: "Liola - The burping stinky lice", url: "https://discordlookup.com/user/1175439421290590249"},
+{ title: "MHD - The Epic Guy", url: "https://discordlookup.com/user/1224468325388521555"},
 ];
 
 searchForm.addEventListener("submit", function (e) {
