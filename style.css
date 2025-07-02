@@ -90,5 +90,5 @@ button:hover {
 
 const secretBtn = document.getElementById("secretBtn");
 secretBtn.addEventListener("click", function () {
-  window.location.href = "secret";
+  window.location.href = "secret.html";
 });
