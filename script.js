@@ -16,9 +16,7 @@ const fakeDatabase = [
 
 searchForm.addEventListener("submit", function (e) {
   e.preventDefault(); // stop the page from reloading
-  doSearch(function doSearch(query) {
-  const encodedQuery = encodeURIComponent(query);
-  window.open(`https://www.google.com/search?q=${encodedQuery}`, "_blank");
+  doSearch(searchImput.value);
 });
 });
 
