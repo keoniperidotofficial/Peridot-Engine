@@ -87,3 +87,8 @@ button:hover {
   margin-top: 2rem;
   text-align: left;
 }
+
+const secretBtn = document.getElementById("secretBtn");
+secretBtn.addEventListener("click", function () {
+  window.location.href = "secret";
+});
